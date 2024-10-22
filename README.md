@@ -1,6 +1,6 @@
 # Pipelined-Cache-public
 
-This project was threatened with a DMCA takedown from the University of Michigan. For full code, please contact Alex.
+For full code, please contact Alex.
 
 This program is a nice example of using low-level programming techniques and applying low-level architecture concepts (Processor design, bit-wise manipulation, working with raw assembly)
 
